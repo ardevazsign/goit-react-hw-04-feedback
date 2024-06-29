@@ -1,0 +1,20 @@
+.optionButton{
+   font-size: 18px;
+   font-weight: bold;
+   padding: 5px 20px 5px 20px;
+   margin-right: 20px;
+   border-radius: 10px;
+   border: none;
+   cursor: pointer;
+   box-shadow: 2px 2px 4px  rgba(0, 0, 0, 0.2);
+}
+.optionButton:hover{
+  background-color: gray;
+  color: aliceblue;
+}
+.feedbackHolder{   
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
